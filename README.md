@@ -2,7 +2,9 @@
 
 ParadoxCatcher is a tool to generate valid configurations for spoofing to resist web tracking. This tools works in four modes:
 
-```$ ./main.py -h
+```
+$ ./main.py -h
+
 usage: main.py [-h]
                          (-m sqlDB uthreshold filename | -c modelfile configfile | -s modelfile dthreshold | -d modelfile attribute value dthreshold)
 
