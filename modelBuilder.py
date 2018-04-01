@@ -1,9 +1,8 @@
-import mysql.connector
-# from itertools import combinations
 from getpass import getpass
 import cPickle as pickle
 import pandas as pd
 import time
+import mysql.connector
 
 def modelBuilder(sql_db,uniqueness_T,file_name):
     usr = raw_input("Username: ")
