@@ -1,6 +1,7 @@
 # ParadoxCatcher
 
-ParadoxCatcher is a tool to generate valid configurations for spoofing to resist web tracking. The documentation is available [paradoxcatcher.readthedocs.io](http://paradoxcatcher.readthedocs.io). 
+ParadoxCatcher is a tool to generate valid configurations for spoofing to resist web tracking. 
+The documentation is available at [paradoxcatcher.readthedocs.io](http://paradoxcatcher.readthedocs.io). 
 
 # Documentation
 
