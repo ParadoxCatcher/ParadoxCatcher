@@ -4,5 +4,5 @@ ParadoxCatcher is a tool to generate valid configurations for spoofing to resist
 
 # Documentation
 
-
+[![Documentation Status](https://readthedocs.org/projects/paradoxcatcher/badge/?version=latest)](http://paradoxcatcher.readthedocs.io/en/latest/?badge=latest)
 
